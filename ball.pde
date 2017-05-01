@@ -1,3 +1,5 @@
+// revised from https://www.openprocessing.org/sketch/402629
+
 int Nmax = 1000 ; float M = 50 ; float H = 0.99 ; float HH = 0.01 ;
 
 float X[] = new float[Nmax+1] ; float Y[] = new float[Nmax+1] ; float Z[] = new float[Nmax+1] ;
